@@ -1,0 +1,13 @@
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/CloudFunctionStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/BQStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/CloudStorageStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/DataProcStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/BigTableStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/CloudSqlStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/CloudLoggingStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/SecretManagerStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/FirestoreStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/CloudMonitoringStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/RunCukuIT.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/CloudSpannerStepDef.java
+/Users/srivutta/Documents/Sapient/Lloyds/PS_InnerSource/cloud-testing-accelerator/src/test/java/com/cloud/accelerator/test/stepdefs/PubSubStepDef.java

@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.cloud.accelerator.test.RunCukuIT
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.814 s <<< FAILURE! - in com.cloud.accelerator.test.RunCukuIT
+Fetch sample data and row count from BQ table(Sample feature file)  Time elapsed: 0.164 s  <<< ERROR!
+java.lang.NullPointerException
+
+Upload object to GCP  cloud storage bucket(Sample feature file)  Time elapsed: 0.026 s  <<< ERROR!
+java.lang.NullPointerException
+
+Upload object to GCP  cloud storage bucket(Sample feature file)  Time elapsed: 0.026 s  <<< ERROR!
+java.lang.NullPointerException
+

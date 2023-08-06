@@ -1,0 +1,13 @@
+com/cloud/accelerator/test/stepdefs/DataProcStepDef.class
+com/cloud/accelerator/test/stepdefs/BQStepDef.class
+com/cloud/accelerator/test/stepdefs/CloudSpannerStepDef.class
+com/cloud/accelerator/test/stepdefs/CloudStorageStepDef.class
+com/cloud/accelerator/test/stepdefs/SecretManagerStepDef.class
+com/cloud/accelerator/test/stepdefs/CloudSqlStepDef.class
+com/cloud/accelerator/test/stepdefs/CloudMonitoringStepDef.class
+com/cloud/accelerator/test/stepdefs/BigTableStepDef.class
+com/cloud/accelerator/test/RunCukuIT.class
+com/cloud/accelerator/test/stepdefs/CloudFunctionStepDef.class
+com/cloud/accelerator/test/stepdefs/FirestoreStepDef.class
+com/cloud/accelerator/test/stepdefs/PubSubStepDef.class
+com/cloud/accelerator/test/stepdefs/CloudLoggingStepDef.class
